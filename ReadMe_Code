@@ -1,1 +1,7 @@
+This file explains the usage of included MATLAB code.
 
+UCreateFrameFromVideo.m creats video frames from a video and stores the video frames of a video in a file named "VideoFrame" in the 
+current folder when you run this MATLAB m file. 
+
+...Code\MATLABCode\USegmentationEvaluation\USegmentationEvaluation.m, working together with the function script RemoveDirect.m in the 
+same directory, tests the segmentation accuracy of your segmentation results with the ground truth. 
