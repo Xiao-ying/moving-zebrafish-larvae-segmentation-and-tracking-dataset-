@@ -1,4 +1,5 @@
-BackgroundSubtractionOpenCV.exe is the executable file that you can run from command window, to do background sub
+BackgroundSubtractionOpenCV.exe is the executable file that you can run from command window, to do background subtraction using
+the mixture of Gaussian model method. Both video and images formats accept. 
 
 This file explains the usage of included MATLAB code.
 
