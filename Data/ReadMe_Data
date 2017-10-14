@@ -1,5 +1,10 @@
 
-This file summarised the condition of each video sequence.
+This file summarised the condition of each video sequence. The sequence order in the dataset is arranged based on 
+the imaging condition complex, with sequence 1 (low frame rate) the simplest and clearest video background to the
+sequence 10 (high frame rate) the most complex and worst video background, to check the effect of the imaging condition
+to the performance of segmentation, detection and further tracking results when being tested with various segmentation 
+and tracking algorithms.
+
 •	Seq.1 with 4 zebrafish larvae in clear round well will shadow at well edge, shooting at 14 f/s of 280 frames.
 •	Seq.2 has 3 zebrafish larvae of 221 frames in a round well with labels and particles, at 15 f/s.
 •	Seq.3 has 5 adult zebrafish in a clear square well of 201 frames at 15 f/s.
